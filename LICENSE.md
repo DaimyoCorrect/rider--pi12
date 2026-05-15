@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with secure JetBrains Rider for PC | JetBrains Rider for Windows Helper | collaboration-tools +
 
 
 
